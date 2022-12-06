@@ -2,6 +2,14 @@
 
 https://adventofcode.com/2022
 
+### Day 6
+
+Well I was feeling pretty good about my sub-20-minute time today, until I looked the leaderboards. I was right aroun 10 THOUSANDTH place. Rank 10798. Unreal. You nerds need something better to do with your time, idk.
+
+But I digress.
+
+Still nailed the problems and feeling good about it. I'll shoot for a better rank tommorrow night.
+
 ### Day 5
 
 A little embarassing, but I only today learned of the timed nature of the AoC challenge. I'm going to go for fast submission tonight. In order to help with that, I created a basic jest test, and I wrote a bash script to scaffold out the files for me. I could take it a step further and hit the page the second a new challenge is available, get the info, bring it in, etc., but that may be excessive.
